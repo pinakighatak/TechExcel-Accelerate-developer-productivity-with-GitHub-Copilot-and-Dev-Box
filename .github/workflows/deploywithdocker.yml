@@ -4,7 +4,7 @@ env:
   registryName: 5trwfn2pltpqempnpreg.azurecr.io
   repositoryName: techexcel/dotnetcoreapp
   dockerFolderPath: ./src/Application/src/RazorPagesTestSample
-  my_prefix: 5trwfn2pltpqempnpreg
+  my_prefix: 5trwfn2pltpqe
   my_registry_name: 5trwfn2pltpqempnpreg
   tag: ${{github.run_number}}
 
