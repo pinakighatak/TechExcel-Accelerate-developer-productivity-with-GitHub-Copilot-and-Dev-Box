@@ -10,10 +10,10 @@ env:
 
 on:
   push:
-    branches: [ main, ci-cd ]
+    branches: [ main, ci-cd, performance-improvement ]
     paths: src/Application/**
   pull_request:
-    branches: [ main, ci-cd ]
+    branches: [ main, ci-cd, performance-improvement ]
     paths: src/Application/**
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
