@@ -1,4 +1,4 @@
-name: .NET CI with Docker
+name: .NET CI
 
 env:
   registryName: 5trwfn2pltpqempnpreg.azurecr.io
